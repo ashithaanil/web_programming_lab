@@ -1,0 +1,98 @@
+INLINE CSS
+<html>
+<body style="background-color:#f0f8ff">
+<h1 style="color:#5d8aa8;padding:10px;text-align:center;">HYPERTTEXT 
+MARKUP LANGUAGE</h1>
+<fieldset>
+<p style="color:#873260;font-size:30px;text-align:justify;marginleft:20px;margin-right:20px;"><B><i>Hypertext markup 
+language(HTML)</i></B> is the standard markup language for documents 
+designed to be displayed in a web browser. It can be assisted by technologies 
+such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.
+Web browsers receive HTML documents from a web server or from local 
+storage and render the documents into multimedia web pages. HTML 
+describes the structure of a web page semantically and originally included cues 
+for the appearance of the document.</p> 
+<p style="color:#873260;font-size: 30px; text-align: justify; margin-left: 20px; 
+margin-right: 20px;">HTML elements are the building blocks of HTML pages. 
+With HTML constructs, images and other objects such as interactive forms may 
+be embedded into the rendered page. HTML provides a means to create 
+structured documents by denoting structural semantics for text such as 
+headings, paragraphs, lists, links, quotes and other items. HTML elements are 
+delineated by tags, written using angle brackets.directly introduce content into 
+the page. Other tags such as surround and provide information about 
+document text and may include other tags as sub-elements. Browsers do not display the HTML tags, but use them to interpret the content of the page.</p> 
+</fieldset> 
+</body>
+</html>
+INTERNAL CSS
+<html> 
+<style> 
+body{ background-color: #f0f8ff;} 
+h1{color: :#5d8 aa8;padding:10 px; textalign: center;} 
+P {color:#873260;font-size: 30px;text-align: justify;margin-left: 20px;marginright: 20px;} </style> 
+<body> 
+<h1>HYPERTEXT MARKUP LANGUAGE</h1> 
+<fieldset> 
+<p><b><i>Hypertext markup language(HTML)</b></i> is the standard markup 
+language for documents designed to be displayed in a web browser. It can be 
+assisted by technologies such as Cascading Style Sheets (CSS) and scripting 
+languages such as JavaScript.
+Web browsers receive HTML documents from a web server or from local 
+storage and render the documents into multimedia web pages. HTML 
+describes the structure of a web page semantically and originally included cues 
+for the appearance of the document.</p> 
+<p>HTML elements are the building blocks of HTML pages. With HTML 
+constructs, images and other objects such as interactive forms may be 
+embedded into the rendered page. HTML provides a means to create 
+structured documents by denoting structural semantics for text such as
+headings, paragraphs, lists, links, quotes and other items. HTML elements are 
+delineated by tags, written using angle brackets. Other surround and provide 
+information about document text and may include other tags as sub-elements. 
+Browsers do not display the HTML tags, but  use them to interpret the content 
+of the page.</p> 
+</fieldset> 
+</body> 
+</html> 
+EXTERNAL CSS
+<html> 
+<head> 
+<link rel="stylesheet" href="typeofcss.css"> 
+</head> 
+<body> 
+<h1>HYPERTEXT MARKUP LANGUAGE</h1> 
+<fieldset> 
+<p><i><b>Hypertext markup language(HTML)</b></i> is the standard markup 
+language for documents designed to be displayed in a web browser. It can be 
+assisted by technologies such as Cascading Style Sheets (CSS) and scripting 
+languages such as JavaScript.
+Web browsers receive HTML documents from a web server or from local 
+storage and render the documents into multimedia web pages. HTML 
+describes the structure of a web page semantically and originally included cues for the appearance of the document.</p><p>HTML elements are the building 
+blocks of HTML pages. With HTML constructs, images and other objects such 
+as interactive forms may be embedded into the rendered page. HTML provides 
+a means to create structured documents by denoting structural semantics for 
+text such as headings, paragraphs, lists, links, quotes and other items. HTML 
+elements are delineated by tags, written using angle brackets. Other tags 
+surround and provide information about document text and may include other 
+tags as sub-elements. Browsers do not display the HTML tags, but use them to 
+interpret the content of the page.</p> 
+</fieldset> 
+</body> 
+</html> 
+Typeofcss.cssbody
+{ 
+background-color: #f0f8ff; 
+} 
+h1{ 
+color:#5d8aa8; 
+padding:10px; 
+text-align: center; 
+} 
+p{ 
+color:#873260; 
+font-size: 30px; 
+text-align: justify; 
+margin-left: 20px; 
+margin-right: 20px; 
+} 
+ 
